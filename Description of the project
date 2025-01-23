@@ -1,0 +1,46 @@
+Project Objective
+The objective of this project is to investigate the impact of lifestyle factors on sleep disorders and the overall quality of sleep. The goal is to identify key determinants influencing sleep health and propose actionable health strategies for individuals and public health initiatives. Research studies consistently highlight that stress is a major contributor to sleep disorders.
+This project focuses on how various lifestyle factors influence the prevalence of sleep disorders, defined as difficulties in maintaining proper sleep patterns that adversely affect an individual's overall health.
+________________________________________
+Dataset Summary
+The dataset utilized for this project contains variables related to personal health and lifestyle factors that affect sleep health. Below is a detailed summary:
+Variable Name	Type	Range of Values
+Person ID	Numerical	1 to 374
+Gender	Categorical	Male, Female
+Age	Numerical	27 to 59
+Occupation	Categorical	Software Engineer, Doctor, Sales Representative, Teacher, Nurse, Accountant, Scientist, Lawyer, Manager, Salesperson
+Sleep Duration	Numerical	5.8 to 8.5 (hours)
+Quality of Sleep	Numerical	4 to 9
+Physical Activity Level	Numerical	30 to 90
+Stress Level	Numerical	3 to 8
+BMI Category	Categorical	Obese, Overweight, Normal, Normal Weight
+Blood Pressure	Numerical	75/115 to 95/142
+Heart Rate	Numerical	65 to 86
+Daily Steps	Numerical	3,000 to 10,000
+Sleep Disorders	Categorical	None, Sleep Apnea, Insomnia
+Dataset Source:
+Tharmalingam, L. (2023). Sleep Health and Lifestyle Dataset. Retrieved from Kaggle.
+________________________________________
+Dashboard Instructions
+The dashboard provides an interactive and user-friendly way to analyze the data:
+•	Filters and Slicers: Users can filter data by age, occupation, and gender to view segmented insights.
+•	Visual Interactions: Individual graphs and visuals can act as filters, allowing users to gain a deeper understanding of the dataset.
+•	Target Audience: Healthcare professionals, public health officials, and individuals can leverage these insights to understand the impact of lifestyle factors on sleep health and disorders.
+________________________________________
+Meaningful Story
+1.	Setup:
+The dashboard emphasizes the significance of sleep quality and disorders as critical public health concerns.
+2.	Conflict:
+The analysis highlights how lifestyle factors such as BMI category, stress levels, and age impact sleep quality and the prevalence of sleep disorders.
+o	Bar Charts: Illustrate how BMI category and stress levels correlate with sleep quality.
+o	Line Charts: Demonstrate the relationship between age and sleep quality, as well as the prevalence of sleep disorders.
+3.	Resolution:
+The dashboard includes slicers for dynamic exploration of data, enabling users to analyze the impact of factors like age, occupation, and gender on sleep quality and disorders.
+________________________________________
+Guiding Decision-Making
+The dashboard supports decision-making by identifying critical lifestyle factors affecting sleep health. 
+•	Key Insight 1: Higher stress levels are strongly correlated with lower sleep quality.
+•	Key Insight 2: Individuals with a normal BMI category tend to have better sleep quality.
+
+These findings empower healthcare providers to design targeted treatment plans and inform public health campaigns aimed at promoting better sleep health within communities.
+
